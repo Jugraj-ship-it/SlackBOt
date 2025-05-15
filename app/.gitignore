@@ -1,0 +1,9 @@
+*.mp3
+*.wav
+*.m4a
+*.ogg
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+temp*
